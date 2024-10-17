@@ -69,6 +69,10 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 
 https://cdn1.pishow.tv/live/222/master.m3u8
 
+#EXTINF:-1 group-title="𝐌𝐨𝐯𝐢𝐞𝐬" tvg-logo="https://image.xumo.com/v1/channels/channel/99991756/600x337.webp?type=channelTile",𝐗𝐮𝐦𝐨 𝐁𝐨𝐥𝐥𝐲𝐰𝐨𝐨𝐝
+
+https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
+
 
 
 
